@@ -1,5 +1,6 @@
 {
 	"name": "HolaMundo",
+	"short_name": "HolaMundo",
 	"icons": [
 		{
 			"src": "\/android-chrome-192x192.png",
@@ -12,6 +13,7 @@
 			"type": "image\/png"
 		}
 	],
+	"start_url": "index.html",
 	"theme_color": "#ffffff",
 	"background_color": "#fff",
 	"display": "standalone"
