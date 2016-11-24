@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;;
+}
+
+html {
+  background-color: #f6f6f6;
+  font-family: Helvetica Neue, Helvetica, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+}
